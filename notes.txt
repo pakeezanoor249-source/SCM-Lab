@@ -1,1 +1,2 @@
 ﻿ In this lab, I learned basic Git workflow, commits, and repository history.
+Git helps track changes in project files.
